@@ -1,1 +1,1 @@
-# OpenVPN Cookbook - Second Edition (Russian Translate)
+# OpenVPN Книга рецептов - второе издание (Russian Translate)
